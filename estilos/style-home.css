@@ -1,0 +1,65 @@
+header{
+    padding: 3rem;
+    background-color: #fad17f;
+}
+
+nav {
+    margin: 0 10px;
+    position: absolute;
+    top: 40px;
+    right: 0;
+}
+nav li{
+
+    display: inline;
+    margin: 0 0 0 10px;
+
+}
+
+nav a{
+
+    text-transform: uppercase;
+    color: #694a05;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+
+nav a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+.banner{
+    width: 100%;
+    height: 400px;
+}
+
+h1{
+    text-decoration: underline;
+    font-size: xxx-large;
+    text-align: center;
+    color: goldenrod;
+}
+h2{
+    font-weight: bolder;
+    text-align: center;
+}
+.subtitulo {
+    font-weight: bold;
+}
+li{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background:#fad17f;
+    padding: 15px;
+    margin: 0;
+}
+.footer-img{
+    width: 70px;
+    height: 40px;
+}
